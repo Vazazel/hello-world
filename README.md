@@ -1,2 +1,2 @@
 # hello-world
-purposless repository
+purposless repository that will remain as such
